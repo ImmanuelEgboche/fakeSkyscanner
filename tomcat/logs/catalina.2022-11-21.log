@@ -1,0 +1,46 @@
+21-Nov-2022 14:25:26.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.27
+21-Nov-2022 14:25:26.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2022 14:18:31 UTC
+21-Nov-2022 14:25:26.121 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.27.0
+21-Nov-2022 14:25:26.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+21-Nov-2022 14:25:26.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            11.5.1
+21-Nov-2022 14:25:26.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+21-Nov-2022 14:25:26.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home
+21-Nov-2022 14:25:26.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18.0.2.1+1-1
+21-Nov-2022 14:25:26.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Nov-2022 14:25:26.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat
+21-Nov-2022 14:25:26.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat
+21-Nov-2022 14:25:26.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Nov-2022 14:25:26.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Nov-2022 14:25:26.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Nov-2022 14:25:26.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Nov-2022 14:25:26.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Nov-2022 14:25:26.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/conf/logging.properties
+21-Nov-2022 14:25:26.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Nov-2022 14:25:26.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+21-Nov-2022 14:25:26.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Nov-2022 14:25:26.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+21-Nov-2022 14:25:26.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+21-Nov-2022 14:25:26.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat
+21-Nov-2022 14:25:26.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat
+21-Nov-2022 14:25:26.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/temp
+21-Nov-2022 14:25:26.344 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/apple/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21-Nov-2022 14:25:27.234 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+21-Nov-2022 14:25:27.434 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1926] milliseconds
+21-Nov-2022 14:25:27.536 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Nov-2022 14:25:27.537 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+21-Nov-2022 14:25:27.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/docs]
+21-Nov-2022 14:25:28.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/docs] has finished in [680] ms
+21-Nov-2022 14:25:28.251 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/manager]
+21-Nov-2022 14:25:28.416 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/manager] has finished in [166] ms
+21-Nov-2022 14:25:28.442 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/examples]
+21-Nov-2022 14:25:29.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/examples] has finished in [751] ms
+21-Nov-2022 14:25:29.197 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/ROOT]
+21-Nov-2022 14:25:29.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/ROOT] has finished in [72] ms
+21-Nov-2022 14:25:29.271 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/host-manager]
+21-Nov-2022 14:25:29.375 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/apple/Desktop/de_work/Mindweaver/fakeSkyscanner/tomcat/webapps/host-manager] has finished in [104] ms
+21-Nov-2022 14:25:29.405 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+21-Nov-2022 14:25:29.463 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2026] milliseconds
+21-Nov-2022 14:30:19.024 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+21-Nov-2022 14:30:19.044 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Nov-2022 14:30:19.143 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+21-Nov-2022 14:30:19.170 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
